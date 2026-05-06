@@ -2,7 +2,7 @@
 
 **Can we make RNNs count perfectly — not approximately, but exactly — and generalise this to sequences far longer than anything they trained on?**
 
-This repository contains the code and experiments from my MSc dissertation (City, University of London, 2024), which builds on [El-Naggar (2023)]([https://openaccess.city.ac.uk/id/eprint/32428/](https://openaccess.city.ac.uk/id/eprint/33010/)) to investigate two approaches for inducing exact counting behaviour in RNNs.
+This repository contains the code and experiments from my MSc dissertation (City, University of London, 2024), which builds on [El-Naggar (2023)](https://openaccess.city.ac.uk/id/eprint/33010/) to investigate two approaches for inducing exact counting behaviour in RNNs.
 
 ---
 
