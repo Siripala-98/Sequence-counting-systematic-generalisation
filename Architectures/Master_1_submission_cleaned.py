@@ -30,7 +30,7 @@ from torch.utils.data import Dataset, DataLoader
 from torch.optim.lr_scheduler import StepLR
 from sklearn.model_selection import train_test_split
 
-from models import (
+from models_scm_clf_1_cleaned import (
     VanillaRNN, VanillaGRU, VanillaLSTM,
     StackRNN, StackGRU, StackLSTM,
     StackRNN_DFRC, StackGRU_DFRC, StackLSTM_DFRC,
